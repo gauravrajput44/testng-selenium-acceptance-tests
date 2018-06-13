@@ -1,0 +1,6 @@
+chromeExePath=src/test/resources/chromedriver.exe
+fireFoxExePath=src/test/resources/geckodriver.exe
+applicationnUrl=https://www.gameduell.com/
+validUserEmail=pqrst15@gmailq.com
+validUserPassword=pqrst15234567
+validUserName=pqrst152345
